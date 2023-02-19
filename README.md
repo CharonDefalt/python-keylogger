@@ -26,7 +26,7 @@ Enjoy :)
 
 # How Bypass antiviruses 
 
-1 : watch the video i uploaded
+1 : watch the video uploaded
 
 2 : install python pyinstaller after installing you must run this command "pyinstaller Hello.py"
 
