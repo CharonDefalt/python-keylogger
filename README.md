@@ -21,7 +21,15 @@ antivirus or set Exclusions folder name
 
 Enjoy :)
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+# How Bypass antiviruses 
+
+1 : watch the video i uploaded
+
+2 : install python pyinstaller after installing you must run this command "pyinstaller Hello.py"
+
 
 # About the new 2 files i added
 
