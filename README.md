@@ -30,6 +30,7 @@ Enjoy :)
 
 2 : install python pyinstaller after installing you must run this command "pyinstaller Hello.py"
 
+3 : install python nuitka after installing you must run this command "python -m nuitka YOURFILE.py"
 
 # About the new 2 files i added
 
