@@ -30,7 +30,11 @@ Enjoy :)
 
 2 : install python pyinstaller after installing you must run this command "pyinstaller Hello.py"
 
-3 : install python nuitka after installing you must run this command "python -m nuitka YOURFILE.py"
+3 : pyinstaller --onefile your_script.py -> Replace your_script.py with the name of your Python script.
+
+Executable Output: After the process is complete, you'll find a dist folder in your script's directory. Inside the dist folder, there will be an executable file with the same name as your script (without the .py extension). This is the standalone .exe file that you can distribute and run on Windows machines.
+
+4 : install python nuitka after installing you must run this command "python -m nuitka YOURFILE.py"
 
 # About the new 2 files i added
 
