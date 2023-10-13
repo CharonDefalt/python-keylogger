@@ -1,8 +1,8 @@
-#READ-This-This-Before-Use
 
-1 : edit keylogger.py and put your ip and the port is 1111 if you want you can change it .
 
-2 : if you changed the port on keylogger.py you have to change the port on server.
+1 : Edit keylogger.py and put your ip and the port is 1111 if you want you can change it .
+
+2 : If you changed the port on keylogger.py you have to change the port on server.
 
 
 
