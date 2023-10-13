@@ -36,7 +36,7 @@ Executable Output: After the process is complete, you'll find a dist folder in y
 
 4 : install python nuitka after installing you must run this command "python -m nuitka YOURFILE.py"
 
-# About the new 2 files i added
+# About the .zip and .rar files
 
 Download Hello-nuiktar and exract it after that you can run Hello.exe file and you will see windows defender is bypassed 
 
