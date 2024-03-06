@@ -1,8 +1,8 @@
-pyinstaller --onefile your_script.py
+# For change the icon use this :
 
+pyinstaller --onefile --icon=your_icon.ico your_script.py
 
-
-#Warning
+# Warning
 
 IF you see the cmd in exe file use this trick :
 
