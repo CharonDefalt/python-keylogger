@@ -1,6 +1,6 @@
 # For change the icon use this :
 
-pyinstaller --onefile --icon=your_icon.ico your_script.py
+pyinstaller --onefile --icon=your_icon.ico  your_script.py
 
 # Warning
 
