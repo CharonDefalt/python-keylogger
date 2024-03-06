@@ -17,6 +17,6 @@ def receive_logs(ip, port):
     server_socket.close()
 
 if __name__ == "__main__":
-    IP_ADDRESS = "192.168.121.105"
-    PORT = 85
+    IP_ADDRESS = "192.168.121.105"   ################## Change it to your ip
+    PORT = 85                        ################## Change it to your custom port OR dont change it on Both scripts
     receive_logs(IP_ADDRESS, PORT)
